@@ -1,2 +1,3 @@
 # GDOULife
-GDOULife
+GDOULife 
+一个使用Jsoup爬虫的新闻客户端、一个模拟登录图书馆客户端、一个模拟登录正方教务系统的客户端...
